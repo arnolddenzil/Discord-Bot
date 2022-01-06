@@ -114,4 +114,4 @@ async def on_reaction_add(reaction, user):
     await reaction_channel.send(f"<{user.name}> gave reaction to <{reaction.message.author}>")
 
 
-client.run("OTI4Mjg0NjI5OTQzODczNTY2.YdWibg.1M9h4xpCNOKg3jRw0k0TNF8GTkw")
+client.run("Token is added here")
